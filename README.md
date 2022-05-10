@@ -1,6 +1,4 @@
-# Ibm_Challeng
-
-The Challenge
+# The Challenge
 
 During your internship you will likely be contributing code to ongoing research projects and we want to see your coding ability and approach to solving problems. 
 
