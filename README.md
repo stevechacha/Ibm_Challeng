@@ -1,7 +1,4 @@
-# Ibm_Challeng
-
-
-The Challenge
+# IBM Research - Africa Technical Challenge 2022
 
 During your internship you will likely be contributing code to ongoing research projects and we want to see your coding ability and approach to solving problems. 
 
